@@ -1,0 +1,6 @@
+id,name,category,value,date,status
+1,Ana Costa,Eletrônicos,150.50,2023-01-15,ativo
+2,Bruno Silva,Livros,45.90,2023-02-10,inativo
+3,Carla Dias,Saúde,300.00,2023-03-05,pendente
+4,Daniel Rosa,Casa e Jardim,1020.75,2023-04-20,ativo
+5,Elena Gomes,Vestuário,89.90,2023-05-12,ativo

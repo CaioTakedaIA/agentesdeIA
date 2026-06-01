@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+dashboard/.env
+.system_generated/
+data_upload/*.csv
+!data_upload/.gitkeep

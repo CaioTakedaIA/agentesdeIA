@@ -1,0 +1,6 @@
+ID_CLIENTE,NOME_COMPLETO,CATEGORIA,VALOR_COMPRA,DATA_CRIACAO,STATUS_CLI
+1, Ana Costa ,Eletrônicos,"""R$ 150,50""","15/01/2023",ATIVO
+2, Bruno Silva ,Livros,"""R$ 45,90""","10/02/2023",INATIVO
+3, Carla Dias ,Saúde,"""R$ 300,00""","05.03.2023",PENDENTE
+4, Daniel Rosa ,Casa e Jardim,"""R$ 1020,75""","20/04/2023",ATIVO
+5, Elena Gomes ,Vestuário,"""R$ 89,90""","12-05-2023",ATIVO
